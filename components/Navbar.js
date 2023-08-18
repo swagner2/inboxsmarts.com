@@ -14,7 +14,7 @@ function Navbar() {
   </a>
   <ul class="navbar-nav d-none d-lg-flex">
     <li class="nav-item">
-      <a class="nav-link" href="#Services">Services</a>
+      <a class="nav-link" href="#Features">Services</a>
     </li>
     <li class="nav-item">
       <a class="nav-link" href="#Pricing">Pricing</a>
