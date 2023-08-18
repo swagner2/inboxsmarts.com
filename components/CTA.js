@@ -6,7 +6,7 @@ function CTA() {
   <div class="row row-cols-1 row-cols-lg-2 gx-5">
   <div class="text-body col py-5">
     <h2 class="title fw-bold">
-      Manage all projects from your mobile
+      Grow your ecommerce store with smart email stratgies. Retain more buyers. Grow your revenue from your email lists. 
     </h2>
     <p>
       Get a FREE Email Marketing Audit! In 30 minutes we can look under the hood of your Klaviyo account and give some actionable advice on how to get more sales, retain more buyers and grow your revenue. 
