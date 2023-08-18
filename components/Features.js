@@ -6,10 +6,9 @@ function Features() {
   <div
   class="text-body text-center d-flex flex-column align-items-center"
 >
-  <h2 class="title fw-bold">Tailor-made features</h2>
+  <h2 class="title fw-bold">Our Services</h2>
   <p class="">
-    Lorem ipsum is common placeholder text used to demonstrate the
-    graphic elements of a document or visual presentation.
+     Custom solutions to fit your brand's email marketing needs.
   </p>
 </div>
 <div
@@ -20,10 +19,9 @@ function Features() {
       <img src="./Images/Base-feature-icon-1.svg" alt="" srcset="" />
     </div>
     <div class="text">
-      <div class="title fw-bold text-center">Robust workflow</div>
+      <div class="title fw-bold text-center">Email Marketing Audit</div>
       <div class="description text-center">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-        erat nibh tristique ipsum.
+        We will provide you with an actionable, in-depth assessment of your current emails so you can gauge overall performance.   
       </div>
     </div>
   </div>
@@ -32,10 +30,9 @@ function Features() {
       <img src="./Images/Base-feature-icon-3.svg" alt="" srcset="" />
     </div>
     <div class="text">
-      <div class="title fw-bold text-center">Flexibility</div>
+      <div class="title fw-bold text-center">Complete Email Marketing Services</div>
       <div class="description text-center">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-        erat nibh tristique ipsum.
+       We will build a proven email marketing strategy that gets you results and achieve's your business goals. 
       </div>
     </div>
   </div>
@@ -44,10 +41,9 @@ function Features() {
       <img src="./Images/Base-feature-icon-5.svg" alt="" srcset="" />
     </div>
     <div class="text">
-      <div class="title fw-bold text-center">User friendly</div>
+      <div class="title fw-bold text-center">SMS Marketing Services </div>
       <div class="description text-center">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-        erat nibh tristique ipsum.
+       Leverage effective SMS to connect with your buyers to grow your sales. 
       </div>
     </div>
   </div>
