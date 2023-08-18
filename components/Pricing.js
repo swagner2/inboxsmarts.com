@@ -6,8 +6,7 @@ function Pricing() {
   <div class="text-body d-flex flex-column align-items-center">
           <h2 class="text-center fw-bold">Pricing Packages</h2>
           <p class="text-center">
-            Connect Landify with your favourite tools that you use daily and
-            keep things on track.
+            Flexible Pricing Plans for you to grow your ecommerce store. No long term contracts. 
           </p>
         </div>
         <div class="row mt-5">
@@ -16,25 +15,24 @@ function Pricing() {
             <div class="inner-box overflow-hidden position-relative">
               <div class="title">Basic</div>
               <div class="price">
-                $199 <span class="duration">/ monthly</span>
+                $499 <span class="duration">/ monthly</span>
               </div>
               <div class="table-content">
                 <ul>
                   <li>
-                    <span><i class="bi bi-check2"></i>1 job posting</span>
+                    <span><i class="bi bi-check2"></i>4 Flows Managed per month job posting</span>
                   </li>
                   <li>
-                    <span><i class="bi bi-check2"></i>0 featured job</span>
+                    <span><i class="bi bi-check2"></i>0 Email Campaigns</span>
                   </li>
                   <li>
                     <span
-                      ><i class="bi bi-check2"></i>Job displayed for 20
-                      days</span
+                      ><i class="bi bi-check2"></i>Monthly A/B Testing on all core Flows</span
                     >
                   </li>
                   <li>
                     <span
-                      ><i class="bi bi-check2"></i>Premium Support 24/7
+                      ><i class="bi bi-check2"></i>Premium Support 8-5/5 days per week
                     </span>
                   </li>
                 </ul>
@@ -55,10 +53,10 @@ function Pricing() {
               <div class="table-content">
                 <ul>
                   <li>
-                    <span><i class="bi bi-check2"></i>1 job posting</span>
+                    <span><i class="bi bi-check2"></i>8 Flows per month Managed</span>
                   </li>
                   <li>
-                    <span><i class="bi bi-check2"></i>0 featured job</span>
+                    <span><i class="bi bi-check2"></i>4 Email Campaigns per month </span>
                   </li>
                   <li>
                     <span
