@@ -28,7 +28,7 @@ function Footer() {
                   >
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#Features">Features</a>
+                  <a class="nav-link" href="#Features">Services</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#Pricing">Pricing</a>
