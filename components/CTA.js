@@ -9,9 +9,7 @@ function CTA() {
       Manage all projects from your mobile
     </h2>
     <p>
-      Download the app to manage your projects, keep track of the
-      progress and complete tasks without procastinating. Stay on track
-      and complete on time!
+      Get a FREE Email Marketing Audit! In 30 minutes we can look under the hood of your Klaviyo account and give some actionable advice on how to get more sales, retain more buyers and grow your revenue. 
     </p>
     <div class="badges mt-5">
       <p>Get the App</p>
