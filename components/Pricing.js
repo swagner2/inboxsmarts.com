@@ -38,7 +38,7 @@ function Pricing() {
                 </ul>
               </div>
               <div class="table-footer">
-                <a href="#" class="button btn-theme-1">View Profile</a>
+                <a href="https://buy.stripe.com/dR69DM4Ds9Uq16E9AP" class="button btn-theme-1">Get Smarter Today!</a>
               </div>
             </div>
           </div>
