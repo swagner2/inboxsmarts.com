@@ -18,7 +18,7 @@ function Herosection() {
             </div>
             <div class="btns-group mt-3">
               <a class="button btn-theme-default" href="https://calendly.com/stevenwagner/discovery-call">Get Started</a>
-              <a class="button btn-theme-2" href=""
+              <a class="button btn-theme-2" href="https://www.youtube.com/watch?v=ZaxEPCOKIRs"
                 ><i class="bi bi-play-circle me-2"></i> Watch Video</a>
             </div>
           </div>
